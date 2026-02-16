@@ -10,8 +10,8 @@ This project demonstrates a simple web application using:
 - Git – Branching and merging workflow
   # Project Structure
   project-folder/
-│
-├── index.html
-├── style.css
-├──  java.js
-├── README.md
+
+ ├── index.html
+ ├── style.css
+ ├──  java.js
+ ├── README.md
